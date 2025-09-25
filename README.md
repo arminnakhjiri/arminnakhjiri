@@ -36,7 +36,7 @@ I am a Remote Sensing and GIS researcher with a strong academic background and h
 ---
 
 #### 🛠️ Technical Toolbox
-`Python` · `JavaScript` · `MATLAB` · Google Earth Engine (GEE) · ArcGIS · ENVI · Data Science · Predictive Modeling · Geostatistics
+`Python` · `JavaScript` · `MATLAB` · `HTML` · `CSS` · Google Earth Engine (GEE) · ArcGIS · ENVI · Data Science · Predictive Modeling · Geostatistics
 
 ---
 
