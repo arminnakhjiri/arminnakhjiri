@@ -1,10 +1,10 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arminnakhjiri)
-[![Email](https://img.shields.io/badge/Email-nakhjiri.armin%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nakhjiri.armin@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3731-3937)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=AcIqviQAAAAJ)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Armin-Nakhjiri)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@arminnakhjiri)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arminnakhjiri.arminnakhjiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arminnakhjiri) 
+[![Email](https://img.shields.io/badge/Email-nakhjiri.armin%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nakhjiri.armin@gmail.com) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3731-3937) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=AcIqviQAAAAJ) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Armin-Nakhjiri) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@arminnakhjiri) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arminnakhjiri.arminnakhjiri) 
 
 ---
 
