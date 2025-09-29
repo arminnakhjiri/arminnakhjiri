@@ -29,9 +29,9 @@ I am a Remote Sensing and GIS researcher with a strong academic background and h
 </details>
 
 #### 📄 Recent Publications
+* *Correlation between land surface temperature and air pollutants in urban environments* — *INPUT 2025 Proceedings* (under review)
 * *Temperature-driven ozone dynamics in a megacity: A decade of diurnal-nocturnal trends* — *Science of the Total Environment* [[DOI](https://doi.org/10.1016/j.scitotenv.2025.180557)]  
 * *Air pollution in industrial clusters: A comprehensive analysis and prediction using multi-source data* — *Ecological Informatics*, 2024 [[DOI](https://doi.org/10.1016/j.ecoinf.2024.102504)]  
-* *Correlation between land surface temperature and air pollutants in urban environments* — *INPUT 2025 Proceedings* (under review)
 
 ---
 
