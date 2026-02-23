@@ -15,8 +15,9 @@ I am a Remote Sensing and GIS researcher with a strong academic background and h
 ---
 
 ### 🛰️ Professional Snapshot
+* **Remote Sensing Scientist**, Iranian Space Research Center – Environmental monitoring & agricultural research (2026-ongoing)  
 * **Remote Sensing Researcher**, University of Tehran – Atlas of Dust in Central Iran (2025)  
-* **Remote Sensing & GIS Specialist**, AI Innovation & Development Center – ML datasets for nationwide agricultural monitoring (2024)  
+* **Remote Sensing & GIS Specialist**, AI Innovation & Development Center – ML development for nationwide agricultural monitoring (2024)  
 * **Remote Sensing Specialist**, Iran’s National Elites Foundation – National industrial air-pollution study & forecasting (2024-2026)  
 * Extensive experience with **Google Earth Engine**, **Python**, **JavaScript**, and machine-learning pipelines for satellite data.
 
