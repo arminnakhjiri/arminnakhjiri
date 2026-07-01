@@ -23,12 +23,6 @@ I am a Remote Sensing and GIS researcher with a strong academic background and h
 
 ---
 
-<details>
-  <summary>:zap: Top Language Stats</summary>
-  
-  <img align="center" alt="Armin Nakhjiri's Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminnakhjiri&layout=compact" />
-</details>
-
 #### 📄 Recent Publications
 * *Correlation between land surface temperature and air pollutants in urban environments* — *INPUT 2025* [[DOI](https://link.springer.com/book/10.1007/978-3-032-18818-2)]  
 * *Temperature-driven ozone dynamics in a megacity: A decade of diurnal-nocturnal trends* — *Science of the Total Environment* [[DOI](https://doi.org/10.1016/j.scitotenv.2025.180557)]  
@@ -44,7 +38,7 @@ I am a Remote Sensing and GIS researcher with a strong academic background and h
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Armin Nakhjiri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arminnakhjiri&show_icons=true&theme=dark&count_private=true" />
+  <img align="center" alt="Armin Nakhjiri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arminnakhjiri&show_icons=true&theme=dark&count_private=true" />
 </details>
 
 
