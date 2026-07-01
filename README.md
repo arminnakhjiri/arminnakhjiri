@@ -35,10 +35,5 @@ I am a Remote Sensing and GIS researcher with a strong academic background and h
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" alt="Armin Nakhjiri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arminnakhjiri&show_icons=true&theme=dark&count_private=true" />
-</details>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=arminnakhjiri&layout=compact&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=arminnakhjiri&layout=compact&langs_count=5&theme=tokyonight)
 
